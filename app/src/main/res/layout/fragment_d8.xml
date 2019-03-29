@@ -8,7 +8,7 @@
     tools:context=".D8Fragment">
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/d8but"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/d8iv"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginStart="8dp"
@@ -29,10 +29,10 @@
         android:src="@drawable/purplegoldenmarbledices"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button3" />
+        app:layout_constraintTop_toBottomOf="@+id/d8but" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/d8msg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -41,5 +41,5 @@
         android:text="@string/voc_ainda_n_o_rolou_os_dados"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+        app:layout_constraintTop_toBottomOf="@+id/d8iv" />
 </android.support.constraint.ConstraintLayout>

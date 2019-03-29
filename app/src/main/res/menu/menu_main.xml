@@ -3,8 +3,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.rolardados.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/addd4"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="@string/adicionar_d4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addd6"
+        android:orderInCategory="100"
+        android:title="@string/adicionar_d6"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addd8"
+        android:orderInCategory="100"
+        android:title="@string/adicionar_d8"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/removed4"
+        android:orderInCategory="100"
+        android:title="@string/remover_d4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/removed6"
+        android:orderInCategory="100"
+        android:title="@string/remover_d6"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/removed8"
+        android:orderInCategory="100"
+        android:title="@string/remover_d8"
         app:showAsAction="never" />
 </menu>

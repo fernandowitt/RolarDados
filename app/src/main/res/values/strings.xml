@@ -7,4 +7,19 @@
     <string name="fragmentod8">FragmentoD8</string>
     <string name="voc_ainda_n_o_rolou_os_dados">Você ainda não rolou os dados</string>
     <string name="rolar_dado_d4">Rolar Dado D4</string>
+    <string name="rollone">Você rolou 1</string>
+    <string name="rolltwo">Você rolou 2</string>
+    <string name="rollthree">Você rolou 3</string>
+    <string name="rollfour">Você rolou 4</string>
+    <string name="rollfive">Você rolou 5</string>
+    <string name="rollsix">Você rolou 6</string>
+    <string name="rollseven">Você rolou 7</string>
+    <string name="rolleight">Você rolou 8</string>
+    <string name="errormsg">Erro</string>
+    <string name="adicionar_d4">Adicionar D4</string>
+    <string name="adicionar_d6">Adicionar D6</string>
+    <string name="adicionar_d8">Adicionar D8</string>
+    <string name="remover_d8">Remover D8</string>
+    <string name="remover_d6">Remover D6</string>
+    <string name="remover_d4">Remover D4</string>
 </resources>
