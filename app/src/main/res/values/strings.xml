@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RolarDados</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentod8">FragmentoD8</string>
+    <string name="voc_ainda_n_o_rolou_os_dados">Você ainda não rolou os dados</string>
+    <string name="rolar_dado_d4">Rolar Dado D4</string>
+</resources>
